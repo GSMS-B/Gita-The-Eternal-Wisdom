@@ -1,0 +1,57 @@
+name: gita_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.10.7
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.2
+  sqflite: ^2.3.0
+  path: ^1.9.0
+  shared_preferences: ^2.2.3
+  http: ^1.2.1
+  flutter_svg: ^2.0.10+1
+  audioplayers: ^6.7.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.4
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/illustrations/
+    - assets/images/illustrations/splash_loading/
+    - assets/images/illustrations/home/
+    - assets/images/illustrations/daily_verse/
+    - assets/images/illustrations/empty_states/
+    - assets/images/illustrations/system_states/
+    - assets/images/chapter_icons/
+    - assets/images/chapter_heroes/
+    - assets/images/logos/
+    - assets/images/animations/
+    - assets/icons/
+    - assets/data/
+    - assets/fonts/
+    - assets/audio/
+
+  fonts:
+    - family: Samarkan
+      fonts:
+        - asset: assets/fonts/SAMARKAN.TTF
+    - family: Lora
+      fonts:
+        - asset: assets/fonts/Lora.ttf
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/logos/app_icon.png"
+  adaptive_icon_background: "#FEFAF6"
+  adaptive_icon_foreground: "assets/images/logos/app_icon.png"

@@ -1,6 +1,11 @@
 <div align="center">
-
-![Gita — The Eternal Wisdom Banner](./screenshots/banner.png)
+  <img
+    src="./screenshots/banner.png"
+    alt="Gita — The Eternal Wisdom Banner"
+    width="100%"
+    style="border-radius: 22px; border: 3px solid #E8DCC3;"
+  />
+</div>
 
 # 🪷 Gita — The Eternal Wisdom
 
@@ -15,6 +20,15 @@
 *(Drop your banner image into the `/screenshots` folder in the repo as `banner.png` — the tag above will pick it up automatically.)*
 
 ---
+
+<div align="center">
+  <img
+    src="./screenshots/banner2.png"
+    alt="Krishna teaching Arjuna"
+    width="100%"
+    style="border-radius: 22px; border: 3px solid #D8EAF7;"
+  />
+</div>
 
 ## 🕉️ About
 
@@ -137,6 +151,15 @@ This project is licensed under the **GNU General Public License v3.0** (GPLv3) �
 - Everyone who tested early builds and gave feedback
 
 ---
+
+<div align="center">
+  <img
+    src="./screenshots/banner3.png"
+    alt="Devotional artwork"
+    width="100%"
+    style="border-radius: 22px; border: 3px solid #E8DCC3;"
+  />
+</div>
 
 <div align="center">
 

@@ -2,7 +2,7 @@
   <img
     src="./screenshots/banner1.png"
     alt="Gita — The Eternal Wisdom Banner"
-    width="100%"
+    width="260"
     style="border-radius: 22px; border: 3px solid #E8DCC3;"
   />
 </div>
@@ -17,7 +17,7 @@
 
 </div>
 
-*(Drop your banner image into the `/screenshots` folder in the repo as `banner.png` — the tag above will pick it up automatically.)*
+
 
 ---
 
@@ -65,7 +65,7 @@ Built as a portfolio project combining two long-standing interests: Indian philo
 |---|---|---|
 | ![Meditation Mode](./screenshots/meditation.png) | ![Chapter View 2](./screenshots/chapter_view2.png) | ![Verses](./screenshots/verses.png) |
 
-*(Drop PNGs into a `/screenshots` folder in the repo with these exact names and the links above will work.)*
+
 
 ## 🛠 Built With
 

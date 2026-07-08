@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="./screenshots/banner.png"
+    src="./screenshots/banner1.png"
     alt="Gita — The Eternal Wisdom Banner"
     width="100%"
     style="border-radius: 22px; border: 3px solid #E8DCC3;"
